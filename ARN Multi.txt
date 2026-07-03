@@ -1,7 +1,7 @@
 # profile-title: ARN Multi
 # profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=1764806400
-#announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQv9C+0LTQtNC10YDQttC60LggQVJOINGB0LjRgdGC0LXQvNGL
+#subscription-userinfo: upload=0; download=0; total=0; expire=1785790800
+#announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQv9C+0LTQtNC10YDQttC60YMgQVJO
 #support-url: https://t.me/kirieshkatops
 
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🇨🇦 Ютуб без рекламы (Basic)
