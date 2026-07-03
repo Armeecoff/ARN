@@ -1,10 +1,11 @@
 # profile-title: ARN
 # profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=1798761600
+#support-url: https://t.me/kirieshkatops
 
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия (By Armeecoff)
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🇨🇦 Ютуб (By Armeecoff)
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🇨🇦 Ютуб (By Armeecoff)
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🇨🇦 Ютуб (By Armeecoff)
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🇨🇦 Ютуб (By Armeecoff)
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=862kp #🇰🇵 По всем вопросам обращаться к тому кто дал ВПН
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия (By Armeecoff)?serverDescription=0J7QsdGL0YfQvdGL0Lkg0JLQn9CdINGB0LXRgNCy0LXRgA==
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🇨🇦 Ютуб (By Armeecoff)?serverDescription=0K7RgtGD0LEg0LHQtdC3INGA0LXQutC70LDQvNGL
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🇨🇦 Ютуб (By Armeecoff)?serverDescription=0K7RgtGD0LEg0LHQtdC3INGA0LXQutC70LDQvNGL
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🇨🇦 Ютуб (By Armeecoff)?serverDescription=0K7RgtGD0LEg0LHQtdC3INGA0LXQutC70LDQvNGL
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🇨🇦 Ютуб (By Armeecoff)?serverDescription=0K7RgtGD0LEg0LHQtdC3INGA0LXQutC70LDQvNGL
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=862kp #🇰🇵 По всем вопросам обращаться к тому кто дал ВПН?serverDescription=0JvQuNCx0L4g0LIg0YLQtdGFLiDQv9C+0LTQtNC10YDQttC60YM=
