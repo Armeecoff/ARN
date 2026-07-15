@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=110048969363; download=110048969363; total=0; expire=1785790800
+#subscription-userinfo: upload=120619675778; download=120619675778; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://3a27b278-b999-42f0-853d-61ae810ec719@158.160.241.25:40111?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&pbk=ejvlm_vs26UsdatGshz1csAcEVlYCxpMO4jJwXRzVS8&sid=5351dc0ea9f9a58f&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://84bd837e-88c2-4dae-8f56-4ba309d6a3d6@213.226.112.213:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-7-5.nodes.ac&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&sid=07d3a29177aefcb6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://84bd837e-88c2-4dae-8f56-4ba309d6a3d6@45.11.26.234:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=wl-7-6.nodes.ac&pbk=QxW0nwrOXYHuEeL4PXObUDEackg-ebQ_9Vgl01IwsxM&sid=77173c666c84bec1#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://aad19977-ffcd-445f-8288-c8257b2c5df0@85.193.94.104:4443?type=grpc&security=reality&fp=chrome&pbk=GaNy50vws0EKFNOl7fE5JkZNxijf80O_3XkUWpteQC8&sid=44ba24f119ad1f14&sni=www.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://b7675c4a-b148-4b02-9cfe-3275e4fee305@82.202.139.14:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@45.91.54.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&alpn=http/1.1&fp=qq&pbk=OD-2VgiGzoTEekLuLg5sEsGmlxgqUML3n2OR9Qj6YT0&sid=135f6d63&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@45.91.54.113:443?flow=xtls-rprx-vision&fp=firefox&pbk=OD-2VgiGzoTEekLuLg5sEsGmlxgqUML3n2OR9Qj6YT0&security=reality&sid=135f6d63&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://a571d35e-0810-48e7-93bc-f465a0ea14e6@194.55.239.210:67?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=ee-t3.vinnypuxtomoon.today&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
