@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=158666671054; download=158666671054; total=0; expire=1785790800
+#subscription-userinfo: upload=163107100895; download=163107100895; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://2ed9595b-97d7-4bee-8415-15c5471f8c56@api.yandex-developer.org:443?encryption=none&security=reality&sni=api.yandex-developer.org&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://cc822ee3-51ca-0007-846d-25ed535491e9@194.55.239.161:8443?encryption=none&type=raw&security=reality&fp=firefox&sni=rutube.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://ecad47b0-249e-000f-adff-e3c8f02b1897@185.40.28.215:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&alpn=http/1.1&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://a256bcb1-e3fd-4148-b206-26ccc93a7f9e@82.202.139.14:443?encryption=none&security=reality&type=tcp&sni=fi.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@fast_s89.screw.page:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=fast_s89.screw.page#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://cc822ee3-51ca-001e-846d-25ed535491e9@194.55.239.131:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rutube.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ecad47b0-249e-000f-adff-e3c8f02b1897@185.40.28.215:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://55bb8b15-a9ca-47eb-9a01-a87cc6c7b783@91.194.213.179:443?encryption=none&security=reality&type=tcp&sni=fi.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
