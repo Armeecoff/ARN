@@ -1,6 +1,6 @@
 # profile-title: ARN Ultra
 # profile-update-interval: 1
-#subscription-userinfo: upload=298677600639; download=298677600639; total=0; expire=1785790800
+#subscription-userinfo: upload=307211992590; download=307211992590; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSBBUk4g0YHQuNGB0YLQtdC80Ys=
 #support-url: https://t.me/kirieshkatops
 
