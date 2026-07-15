@@ -1,6 +1,6 @@
 # profile-title: ARN Multi
 # profile-update-interval: 1
-#subscription-userinfo: upload=159432184682; download=159432184682; total=0; expire=1785790800
+#subscription-userinfo: upload=163521118379; download=163521118379; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQv9C+0LTQtNC10YDQttC60YMgQVJO
 #support-url: https://t.me/kirieshkatops
 
