@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=407253487066; download=407253487066; total=0; expire=1785790800
+#subscription-userinfo: upload=415872941612; download=415872941612; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&type=raw&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&type=raw&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://97d6ec9c-9702-43ff-8ac8-5a8b4423d3ce@138.16.184.72:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=DZQE8nDxD9hcmMSNEIaFC1_VIB1_SslMgEB-3jyIZHs&sid=c226283c4de5b1ad&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?&security=reality&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox&sni=auto.quattro-tech.ru&type=tcp&headerType=none&host=auto.quattro-tech.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&type=raw&security=reality&fp=firefox&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
