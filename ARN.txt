@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=280568258001; download=280568258001; total=0; expire=1785790800
+#subscription-userinfo: upload=290646817143; download=290646817143; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://528ee6c3-7d3c-0003-b0de-0d5da09aeb14@ru.monkeyvillage.pro:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru.monkeyvillage.pro&fp=firefox&pbk=H0bAU_r0uJoCA-yq9TXr54tZZ13jON20h8oGPkvWuS0&sid=67fce9dfc5827eb6&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://cc822ee3-51ca-0007-846d-25ed535491e9@194.55.239.161:8443?encryption=none&type=raw&security=reality&fp=firefox&sni=rutube.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://cc822ee3-51ca-000a-846d-25ed535491e9@194.55.239.153:8443?type=tcp&security=reality&sni=rutube.ru&fp=firefox&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://71282400-6e18-4d23-b1b7-738b1884f3dc@164.138.100.199:443?encryption=none&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=fi-br-yandex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://7836b5eb-0685-4af3-baca-2d75cad5d4de@164.138.100.199:443?encryption=none&type=grpc&serviceName=fi-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://c1a60d3d-e15b-4d66-96b1-511678b7eac9@164.138.100.199:443?encryption=none&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=fi-br-yandex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://c841c754-530e-46ed-a622-d03fb080034c@164.138.100.199:443?encryption=none&type=grpc&serviceName=fi-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
