@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=339633308078; download=339633308078; total=0; expire=1785790800
+#subscription-userinfo: upload=349235021403; download=349235021403; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
+vless://ecad47b0-249e-0007-adff-e3c8f02b1897@194.55.239.167:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
 vless://ecad47b0-249e-000a-adff-e3c8f02b1897@194.55.239.199:8443?type=tcp&security=reality&sni=rutube.ru&fp=firefox&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
 vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?&security=reality&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox&sni=auto.quattro-tech.ru&type=tcp&headerType=none&host=auto.quattro-tech.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://86381b18-dee8-0004-b62d-fb099bfc6a86@193.233.217.240:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=specs.chaos-control.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://86381b18-dee8-0004-b62d-fb099bfc6a86@193.233.217.240:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=specs.chaos-control.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
