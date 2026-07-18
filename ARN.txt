@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=568575477554; download=568575477554; total=0; expire=1785790800
+#subscription-userinfo: upload=571107564514; download=571107564514; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
+vless://089845a1-3746-4efd-a48b-b2d176337a5f@5.188.114.73:18443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=ns&sni=id.pervye.ru&pbk=olUTV28dWkomVkfH50avy8iELvc2gohx2fJF6bokqGI&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://089845a1-3746-4efd-a48b-b2d176337a5f@5.188.114.73:18443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=ns&sni=id.pervye.ru&pbk=olUTV28dWkomVkfH50avy8iELvc2gohx2fJF6bokqGI&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?encryption=none&security=tls&sni=media.kinodrozd.com&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=media.kinodrozd.com&path=%2F&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?encryption=none&security=tls&sni=media.kinodrozd.com&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=media.kinodrozd.com&path=%2F&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?type=ws&security=tls&sni=media.kinodrozd.com&path=%2F&host=media.kinodrozd.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?type=ws&security=tls&sni=media.kinodrozd.com&path=%2F&host=media.kinodrozd.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?type=ws&security=tls&path=%2F&sni=media.kinodrozd.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
