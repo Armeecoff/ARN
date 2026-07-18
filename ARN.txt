@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=537518387787; download=537518387787; total=0; expire=1785790800
+#subscription-userinfo: upload=538998246157; download=538998246157; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.12.114.157:443?encryption=none&security=reality&sni=www.samsung.com&pbk=SK0KGyJuRjuijxlXfFIQ16DBIVRIMwYWUvYyS_CrWhA&sid=ec092e19&type=grpc&authority=&serviceName=grpc&mode=gun&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://15a592f4-8d89-4743-a7ee-59d6b9c16a51@91.185.83.96:16321?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=n4OsCrs1bDcu_TI95_W-D4K9s5i2ga_g5L3uskwA1VU&sid=78b2ebdb7007ecee&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://15a592f4-8d89-4743-a7ee-59d6b9c16a51@91.185.83.96:16321?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=n4OsCrs1bDcu_TI95_W-D4K9s5i2ga_g5L3uskwA1VU&sid=78b2ebdb7007ecee&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://15a592f4-8d89-4743-a7ee-59d6b9c16a51@91.185.83.96:16321?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=n4OsCrs1bDcu_TI95_W-D4K9s5i2ga_g5L3uskwA1VU&sid=78b2ebdb7007ecee&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ae13f36f-c1ad-4f86-88ca-15768f2eb384@91.185.83.96:16321?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=n4OsCrs1bDcu_TI95_W-D4K9s5i2ga_g5L3uskwA1VU&sid=78b2ebdb7007ecee&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ae13f36f-c1ad-4f86-88ca-15768f2eb384@91.185.83.96:16321?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=n4OsCrs1bDcu_TI95_W-D4K9s5i2ga_g5L3uskwA1VU&sid=78b2ebdb7007ecee&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ae13f36f-c1ad-4f86-88ca-15768f2eb384@91.185.83.96:16321?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=n4OsCrs1bDcu_TI95_W-D4K9s5i2ga_g5L3uskwA1VU&sid=78b2ebdb7007ecee&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ae13f36f-c1ad-4f86-88ca-15768f2eb384@91.185.83.96:16321?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=n4OsCrs1bDcu_TI95_W-D4K9s5i2ga_g5L3uskwA1VU&sid=78b2ebdb7007ecee&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
