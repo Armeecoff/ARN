@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=573599462463; download=573599462463; total=0; expire=1785790800
+#subscription-userinfo: upload=577192252853; download=577192252853; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://40c10aa1-f6b9-4552-85b4-811348efe56d@185.229.9.31:49007?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&sni=ads.x5.ru&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&sid=dfdee30a27b11f0f&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@81.19.135.179:8443?encryption=none&flow=xtls-rprx-vision&pbk=NSix0M6rjiKaif57ADmi-nNYoFE8_y_Qm5EGXdTAxBk&security=reality&sid=39d947&sni=ads.x5.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@81.19.135.179:8443?encryption=none&flow=xtls-rprx-vision&pbk=NSix0M6rjiKaif57ADmi-nNYoFE8_y_Qm5EGXdTAxBk&security=reality&sid=39d947&sni=ads.x5.ru&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://4401809f-4d60-4df7-ab14-da48955c2cb3@84.201.139.231:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&sni=web.max.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://1136f25a-4925-4ba6-9620-771dd9553f92@195.58.49.41:59978?encryption=none&flow=xtls-rprx-vision&pbk=zU3_YlbtgNxg4_mPQzmz3aBCET3vUNbBMYrEztVFs0Q&security=reality&sid=c3a0d1&sni=ymail.com&spx=%2F&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://089845a1-3746-4efd-a48b-b2d176337a5f@5.188.114.73:18443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=ns&sni=id.pervye.ru&pbk=olUTV28dWkomVkfH50avy8iELvc2gohx2fJF6bokqGI&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://089845a1-3746-4efd-a48b-b2d176337a5f@5.188.114.73:18443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=ns&sni=id.pervye.ru&pbk=olUTV28dWkomVkfH50avy8iELvc2gohx2fJF6bokqGI&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://089845a1-3746-4efd-a48b-b2d176337a5f@5.188.114.73:18443?type=grpc&security=reality&sni=id.pervye.ru&pbk=olUTV28dWkomVkfH50avy8iELvc2gohx2fJF6bokqGI&serviceName=ns&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
