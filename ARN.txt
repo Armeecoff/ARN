@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=625932007485; download=625932007485; total=0; expire=1785790800
+#subscription-userinfo: upload=629425025074; download=629425025074; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://83d32308-70ad-4ca8-822e-7b653e1bd35c@nlc.tunnelguard.ru:443?type=xhttp&security=tls&sni=nlc.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://83d32308-70ad-4ca8-822e-7b653e1bd35c@nlc.tunnelguard.ru:443?type=xhttp&security=tls&sni=nlc.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://83d32308-70ad-4ca8-822e-7b653e1bd35c@nlc.tunnelguard.ru:443?type=xhttp&security=tls&sni=nlc.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://83d32308-70ad-4ca8-822e-7b653e1bd35c@nlc.tunnelguard.ru:443?type=xhttp&security=tls&sni=nlc.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@94.103.90.213:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&type=tcp&headerType=none&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@94.103.90.213:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&type=tcp&headerType=none&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@94.103.90.213:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@94.103.90.213:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&type=tcp&headerType=none&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
