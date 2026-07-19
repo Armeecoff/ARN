@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=585526444914; download=585526444914; total=0; expire=1785790800
+#subscription-userinfo: upload=588626909915; download=588626909915; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://da20450f-c96d-467d-a5e4-4814402bcf9e@5.42.123.175:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YpcvMn5qyBuqOg0yBnJlbzcROJAz4T164xXQghB7ey8&security=reality&sid=eb0cca73&sni=eh.vk.com:443&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://da20450f-c96d-467d-a5e4-4814402bcf9e@85.239.36.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YpcvMn5qyBuqOg0yBnJlbzcROJAz4T164xXQghB7ey8&security=reality&sid=eb0cca73&sni=eh.vk.com:443&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://3d51cf61-0c61-4333-bd8f-2fc740aebb54@213.226.112.213:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-7-5.nodes.ac&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&sid=07d3a29177aefcb6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://3d51cf61-0c61-4333-bd8f-2fc740aebb54@45.11.26.216:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=wl-7-2.nodes.ac&pbk=XcKsq814Eci-OL3RwNbjvTMn73QzoczITlTSmnY-syI&sid=ba4ce2cb1029b0dd#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://450d8809-303a-4b9c-9720-36475b301c42@185.229.9.31:49007?encryption=none&security=reality&sni=ads.x5.ru&fp=ios&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&sid=dfdee30a27b11f0f&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://510a7c87-0aa0-4ead-9c9f-6e1700e12b09@109.172.46.105:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=wR1YUNd4Vbpn7rDgjblAP6SLhqaYiL1XElrn0J0VDjE&sid=77&sni=run.homeston.space&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://510a7c87-0aa0-4ead-9c9f-6e1700e12b09@run.homeston.space:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=run.homeston.space&fp=edge&pbk=wR1YUNd4Vbpn7rDgjblAP6SLhqaYiL1XElrn0J0VDjE&sid=77#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://da20450f-c96d-467d-a5e4-4814402bcf9e@5.42.102.103:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YpcvMn5qyBuqOg0yBnJlbzcROJAz4T164xXQghB7ey8&security=reality&sid=eb0cca73&sni=eh.vk.com:443&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
