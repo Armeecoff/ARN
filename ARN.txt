@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=619571450915; download=619571450915; total=0; expire=1785790800
+#subscription-userinfo: upload=623046549799; download=623046549799; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://f2f723f5-b97d-4414-997c-d2925013af28@5.23.55.128:1080?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Bp5PnujrPK50eE_28vIWSyBjdIPLXCLGYPjRKx0pqgI&sid=845ac2739143b71d&sni=github.com&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://f2f723f5-b97d-4414-997c-d2925013af28@5.23.55.128:1080?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Bp5PnujrPK50eE_28vIWSyBjdIPLXCLGYPjRKx0pqgI&sid=845ac2739143b71d&sni=github.com&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://70a36af9-81c5-47d1-86e2-8db4794a68df@top3471791448.mwscdn.ru:443?type=xhttp&security=tls&sni=top3471791448.mwscdn.ru&path=%2Fapi%2Fhel&mode=auto&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://70a36af9-81c5-47d1-86e2-8db4794a68df@top3471791448.mwscdn.ru:443?type=xhttp&security=tls&sni=top3471791448.mwscdn.ru&path=%2Fapi%2Fhel&mode=auto&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@194.55.239.174:443?encryption=none&security=tls&sni=furrycdn.net&type=ws&path=%2Fapi%2Fv1%2Fvideo-stream&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@194.55.239.174:443?encryption=none&security=tls&sni=furrycdn.net&type=ws&path=%2Fapi%2Fv1%2Fvideo-stream&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?encryption=none&security=tls&sni=media.kinodrozd.com&type=ws&host=media.kinodrozd.com&path=%2F&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?encryption=none&security=tls&sni=media.kinodrozd.com&type=ws&host=media.kinodrozd.com&path=%2F&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
