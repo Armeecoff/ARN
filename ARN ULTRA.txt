@@ -1,11 +1,11 @@
 # profile-title: ARN Ultra
 # profile-update-interval: 1
-#subscription-userinfo: upload=745871176488; download=745871176488; total=0; expire=1785790800
+#subscription-userinfo: upload=748164398190; download=748164398190; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSBBUk4g0YHQuNGB0YLQtdC80Ys=
 #support-url: https://t.me/kirieshkatops
 
 vless://3f96d95c-0b89-4be5-99df-55d10bfb3b6b@188.68.36.93:443?type=tcp&headerType=none&security=reality&encryption=none&sni=wikipedia.org&fp=firefox&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@newlte.kihsuyhf8jkiugsxb.cfd:9443?security=tls&fm=%7B%7D&sni=newlte.kihsuyhf8jkiugsxb.cfd&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.250.230:5555?security=tls&fm=%7B%7D&sni=31.56.188.66.tyr-agentstvo.tech&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-vless://42799271-f36c-454f-a2a3-3820059a2cd5@194.55.239.250:443?encryption=none&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&security=reality&serviceName=grpc&sid=0a7aa1be&sni=yastatic.ru&type=grpc&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.250.230:5555?sni=31.56.188.66.tyr-agentstvo.tech&insecure=0&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F
+hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@newlte.kihsuyhf8jkiugsxb.cfd:9443?security=tls&fm=%7B%7D&sni=newlte.kihsuyhf8jkiugsxb.cfd#LTE%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.250.230:5555?security=tls&fm=%7B%7D&sni=31.56.188.66.tyr-agentstvo.tech#LTE%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.255.178.131:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=sca12.afterdomain.shop&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.250.230:5555?sni=31.56.188.66.tyr-agentstvo.tech&insecure=0#LTE%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F
