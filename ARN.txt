@@ -1,10 +1,10 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=652643240366; download=652643240366; total=0; expire=1785790800
+#subscription-userinfo: upload=655342410980; download=655342410980; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@185.221.199.129:10443?encryption=none&fp=firefox&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://ecad47b0-249e-0011-adff-e3c8f02b1897@185.40.28.212:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://ecad47b0-249e-0011-adff-e3c8f02b1897@185.40.28.212:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.9.15.2:443?encryption=none&fp=firefox&host=www.tradingview.com&mode=auto&path=/630fdd2a-0f82-4a85-9ecf-7f490b9e8c24&pbk=iudzEpcjL_9hNvn7rf05GwUfV5zMpf8TSumBNo4VLTM&security=reality&sid=b30a30f0&sni=www.tradingview.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://c4f2b2c2-6461-4a80-87ae-d97910593cfc@51.250.36.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mQjqsW9aURseb3Q8bgskeQeBeDJ0x7EU7EVUtnrTsTI&security=reality&sid=51bc3046&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://c4f2b2c2-6461-4a80-87ae-d97910593cfc@51.250.36.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mQjqsW9aURseb3Q8bgskeQeBeDJ0x7EU7EVUtnrTsTI&security=reality&sid=871d7c28327e&sni=megafon.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://c249ae55-50a5-4dc9-9c23-cf9be57af2b3@45.9.15.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G4RwSv6KluWRc8w8q2E3vwWACNqJyU2P3PdeWq9HiHc&security=reality&sid=65&sni=vm.mediastreamer.online&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
+vless://ef4284e2-0131-403e-9f31-759a6366fd36@81.90.31.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xgLJ_Xdg0-WeiNieN6tPzI_GTub9bQEHYq9GCL6sQU0&security=reality&sid=b04f71940ef79c2a&sni=fg.mediastreamer.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AE%D1%82%D1%83%D0%B1
