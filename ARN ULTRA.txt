@@ -1,11 +1,11 @@
 # profile-title: ARN Ultra
 # profile-update-interval: 1
-#subscription-userinfo: upload=754662305094; download=754662305094; total=0; expire=1785790800
+#subscription-userinfo: upload=757654920444; download=757654920444; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSBBUk4g0YHQuNGB0YLQtdC80Ys=
 #support-url: https://t.me/kirieshkatops
 
-vless://22f6d44b-7d06-4082-9378-39ca103b9d03@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://6855c0ad-e259-4180-a6b8-776efdfbbcea@84.201.162.99:49958?encryption=none&type=raw&security=reality&fp=chrome&sni=www.nvidia.com&pbk=wwIAlV04ehfHxXiYZtCum2uKRU5mXK2uQ0bL_2_R8mE&sid=83e911b88e14&spx=%2F5p7RA7i4L0s2TNM&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@newlte.kihsuyhf8jkiugsxb.cfd:9443?security=tls&fm=%7B%7D&sni=newlte.kihsuyhf8jkiugsxb.cfd#LTE%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
 hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.250.230:5555?security=tls&fm=%7B%7D&sni=31.56.188.66.tyr-agentstvo.tech#LTE%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.255.178.131:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=sca12.afterdomain.shop&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://bdc00b0d-e5f5-4cde-8414-6eb7ab5af117@51.250.84.76:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=ads.x5.ru&pbk=Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls&sid=a374f536afccddfe&fp=ios&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F
+vless://bdc00b0d-e5f5-4cde-8414-6eb7ab5af117@51.250.84.76:443?security=reality&flow=xtls-rprx-vision&pbk=Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls&sid=a374f536afccddfe&sni=ads.x5.ru&type=tcp&headerType=none&host=ads.x5.ru&path=%2F&fp=firefox&serverDescription=VkxFU1MvR1BSQy9YSFRUUC9SRUFMSVRZ#LTE%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F
