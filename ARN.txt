@@ -1,11 +1,11 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=725160120431; download=725160120431; total=0; expire=1785790800
+#subscription-userinfo: upload=729182650533; download=729182650533; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
-vless://fb978279-0a28-4045-8258-e9ab97deaf2b@198.41.223.87:2087?encryption=none&fp=firefox&host=3da0360c.myblog-2hd.pages.dev&path=/&security=tls&sni=3da0360c.myblog-2hd.pages.dev&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@160.153.137.16:2087?&security=tls&fp=chrome&sni=valid22.validbv9501.ir&type=ws&headerType=none&host=valid22.validbv9501.ir&path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@198.41.223.87:2087?encryption=none&security=tls&sni=3da0360c.myblog-2hd.pages.dev&fp=random&type=ws&host=3da0360c.myblog-2hd.pages.dev&path=%2F#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@8.39.125.100:2083?encryption=none&host=3da0360c.myblog-2hd.pages.dev&path=%2F&security=tls&sni=3da0360c.myblog-2hd.pages.dev&type=ws&fp=chrome#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@8.39.125.100:2083?encryption=none&security=tls&sni=3da0360c.myblog-2hd.pages.dev&fp=random&type=ws&host=3da0360c.myblog-2hd.pages.dev&path=%2F#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@8.39.125.100:2083?encryption=none&fp=firefox&host=3da0360c.myblog-2hd.pages.dev&path=/&security=tls&sni=3da0360c.myblog-2hd.pages.dev&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@176.124.223.16:2087?encryption=none&host=valid22.validbv9501.ir&path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==&security=tls&sni=valid22.validbv9501.ir&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@176.124.223.16:2087?encryption=none&security=tls&sni=valid22.validbv9501.ir&fp=random&type=ws&host=valid22.validbv9501.ir&path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@45.85.118.16:2087?type=ws&security=tls&fp=firefox&sni=valid22.validbv9501.ir&path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D&host=valid22.validbv9501.ir#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
