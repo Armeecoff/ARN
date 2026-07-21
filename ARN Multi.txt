@@ -1,7 +1,7 @@
 # profile-title: ARN Multi
 # profile-update-interval: 1 
 #subscription-userinfo: upload=807907442893; download=807907442893; total=0; expire=1785790800 
-#announce: base64:7aC97bKg0JLRi9Cx0LXRgNC40YLQtSDQv9C+0LTRhdC+0LTRj9GJ0LjQuSDRgdC10YDQstC10YAgCuKcs++4j9CjINGA0LDQt9C90YvRhSDQvtC/0LXRgNCw0YLQvtGA0L7QsiDRgNCw0LHQvtGC0LDRjtGCINGA0LDQt9C90YvQtSDRgdC10YDQstC10YDQsA==
+#announce: base64:0KDQtdC60L7QvNC10L3QtNC+0LLQsNC90L4g0L/QvtGB0YLQsNCy0LjRgtGMINCyINC90LDRgdGC0YDQvtC50LrQsNGFIEhhcHAg0YHQvtGA0YLQuNGA0L7QstC60YMg0L/QviDQv9C40L3Qs9GDLNGH0YLQvtCxINCy0LLQtdGA0YXRgyDQsdGL0LvQuCDQu9GD0YfRiNC40LUg0YHQtdGA0LLQtdGA0LA=
 #support-url: https://t.me/kirieshkatops
 #profile-announcement: Внимание! Технические работы на сервере Германия
 vless://a96373c2-6c78-44dc-ac4b-33fd3d32c68b@95.213.143.18:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=findmypackets.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#LTE%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
