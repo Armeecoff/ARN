@@ -3,9 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=1073741824000; expire=
 #announce: AetrisVPN | v2056 | 190 серверов | Обновлено: 7/20/2026 02:10 PM
 #support-url: https://t.me/AetrisVPN
-#profile-web-page-url: https://pay.cloudtips.ru/p/6f2a7544
-#hide-settings: 0
-#➡️ AetrisVPN | v2056 | 190 серверов | Обновлено: 7/20/2026 02:10 PM
+#sub-info-text: Добро пожаловать в AetrisVPN! 🚀
+#sub-info-color: green
+#sub-info-button-text: Купить подписку
+#sub-info-button-link: https://pay.cloudtips.ru/p/6f2a7544
 vless://40beaeee-b92f-41f3-a3e9-552081a9c543@185.229.9.31:49010?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=ads.x5.ru&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&sid=dfdee30a27b11f0f#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 vless://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@45.59.117.169:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.blick.ch&fp=firefox&pbk=Uwj82vGl-jAhU3VflWnTy7rISYi03slggjS32Zx8pkk&sid=6ba85179e30d4fc2&serviceName=wlgrpc#%F0%9F%87%A8%F0%9F%87%AD%20AetrisVPN
 vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?encryption=none&type=raw&security=none#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
