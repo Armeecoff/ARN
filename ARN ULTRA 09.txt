@@ -1,0 +1,12 @@
+# profile-title: ARN Ultra
+# profile-update-interval: 1
+#providerid: AhzdEXVE
+#subscription-userinfo: upload=0; download=0; total=0; expire=1788436800
+#announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSBBUk4g0YHQuNGB0YLQtdC80Ys=
+#support-url: https://t.me/kirieshkatops
+#notification-subs-expire: 1
+#sub-info-text: Спасибо за выбор ARN Ultra
+#sub-info-color: blue
+#sub-info-button-text: Бот
+#sub-info-button-link: https://t.me/test_rub_bot?startapp
+#hide-settings: 1
