@@ -1,0 +1,12 @@
+# profile-title: ARN Multi
+# profile-update-interval: 1 
+#providerid: AhzdEXVE
+#subscription-userinfo: upload=0; download=0; total=0; expire=1788436800 
+#announce: base64:0KDQtdC60L7QvNC10L3QtNC+0LLQsNC90L4g0L/QvtGB0YLQsNCy0LjRgtGMINCyINC90LDRgdGC0YDQvtC50LrQsNGFIEhhcHAg0YHQvtGA0YLQuNGA0L7QstC60YMg0L/QviDQv9C40L3Qs9GDLNGH0YLQvtCxINCy0LLQtdGA0YXRgyDQsdGL0LvQuCDQu9GD0YfRiNC40LUg0YHQtdGA0LLQtdGA0LA=
+#support-url: https://t.me/kirieshkatops
+#notification-subs-expire: 1
+#sub-info-text: Спасибо за выбор ARN Multi
+#sub-info-color: green
+#sub-info-button-text: Бот
+#sub-info-button-link: https://t.me/test_rub_bot?startapp
+#hide-settings: 1
