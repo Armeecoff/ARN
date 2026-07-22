@@ -1,0 +1,12 @@
+# profile-title: ARN Pro
+# profile-update-interval: 1
+#providerid: AhzdEXVE
+#subscription-userinfo: upload=0; download=0; total=0; expire=1788436800
+#announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
+#support-url: https://t.me/kirieshkatops
+#notification-subs-expire: 1
+#sub-info-text: Спасибо за выбор ARN Pro
+#sub-info-color: red
+#sub-info-button-text: Бот
+#sub-info-button-link: https://t.me/test_rub_bot?startapp
+#hide-settings: 1
