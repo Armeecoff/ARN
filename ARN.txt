@@ -1,6 +1,6 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=1000838478191; download=1000838478191; total=0; expire=1785790800
+#subscription-userinfo: upload=1003576002633; download=1003576002633; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
@@ -10,8 +10,8 @@ hysteria2://FR+3uZ+qu5lMaeIEV2OeBK3sQJmmMiABg57L4KFWK78=@vpn.the2oser.lol:8443?s
 hysteria2://419bfbd4-3097-4cef-a6b3-aebd78506ed7@ppl.myispace.xyz:8443?headerType=none&encryption=none&sni=ppl.myispace.xyz&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@nl02.auragg.org:48343/?sni=nl02.auragg.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 
-vmess://eyJhZGQiOiJ4c2owMDQtMTAuZmFjYWkyMDI0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieHNqMDA0LTEwLmZhY2FpMjAyNC5jb20iLCJpZCI6IjFmMWFhMzYyLTI1NzYtNDk4OS04ZmRiLTdjZjFjMmM5NjQ5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xZjFhYTM2Mi0yNSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMsIE5ldyBZb3JrIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4c2owMDQtMTAuZmFjYWkyMDI0LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@krhtybay.catcat321.com:20010?type=tcp&security=tls&sni=hk.catxstar.com&fp=chrome&alpn=http%2F1.1#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://0A0kFGWA0t@83.228.235.99:19289?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=/&type=grpc&sni=yahoo.com#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://1-----------------BanV2ray-----------------1@179.237.74.104:15272?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/2c44c7453292bcc&type=grpc&sni=world.yahoo.com:443&sid=5849771c39aa01#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@nederland.gamestocke.ru:443?headerType=none&encryption=none&sni=nederland.gamestocke.ru&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@nl-hy2.veilvpn.life:443?headerType=none&encryption=none&sni=nl-hy2.veilvpn.life&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?headerType=none&encryption=none&sni=taga10.api3-max.ru&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga7.api3-max.ru:443?headerType=none&encryption=none&sni=taga7.api3-max.ru&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@popa.leontunel.ru:443?insecure=0&sni=popa.leontunel.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
