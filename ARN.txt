@@ -1,6 +1,6 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=1266336293776; download=1266336293776; total=0; expire=1785790800
+#subscription-userinfo: upload=1270181436446; download=1270181436446; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
@@ -10,8 +10,8 @@ hysteria2://FR+3uZ+qu5lMaeIEV2OeBK3sQJmmMiABg57L4KFWK78=@vpn.the2oser.lol:8443?s
 hysteria2://419bfbd4-3097-4cef-a6b3-aebd78506ed7@ppl.myispace.xyz:8443?headerType=none&encryption=none&sni=ppl.myispace.xyz&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@nl02.auragg.org:48343/?sni=nl02.auragg.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 
+trojan://521314@45.194.53.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 trojan://521314@45.8.211.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://521314@45.80.108.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://521314@46.202.30.27:443?security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws&path=/#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://521314@5.10.246.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://521314@5.10.247.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://521314@45.80.110.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://521314@5.10.245.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://521314@72.167.25.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
