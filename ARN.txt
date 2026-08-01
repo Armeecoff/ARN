@@ -1,6 +1,6 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
-#subscription-userinfo: upload=1472899325336; download=1472899325336; total=0; expire=1785790800
+#subscription-userinfo: upload=1476411659768; download=1476411659768; total=0; expire=1785790800
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDRgtC+INC40YHRgtC+INGH0YLQviDRgdGC0LDRgtC4INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBBUk4g0YHQuNGB0YLQtdC80YPRjg==
 #support-url: https://t.me/kirieshkatops
 
@@ -10,8 +10,8 @@ hysteria2://FR+3uZ+qu5lMaeIEV2OeBK3sQJmmMiABg57L4KFWK78=@vpn.the2oser.lol:8443?s
 hysteria2://419bfbd4-3097-4cef-a6b3-aebd78506ed7@ppl.myispace.xyz:8443?headerType=none&encryption=none&sni=ppl.myispace.xyz&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@nl02.auragg.org:48343/?sni=nl02.auragg.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 
+vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-007.cloud25075.info&sni=ad-007.cloud25075.info&encryption=none&fp=android#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-007.cloud25075.info&sni=ad-007.cloud25075.info&encryption=none&fp=edge#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?sni=taga10.api3-max.ru&insecure=0&allowInsecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?sni=taga2.api3-max.ru&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
