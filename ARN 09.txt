@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=647543195621; download=647543195621; total=0; expire=1788436800
+#subscription-userinfo: upload=651325346722; download=651325346722; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-007.cloud25075.info&sni=ad-007.cloud25075.info&encryption=none&fp=android#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-007.cloud25075.info&sni=ad-007.cloud25075.info&encryption=none&fp=edge#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?sni=taga10.api3-max.ru&insecure=0&allowInsecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?sni=taga2.api3-max.ru&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443?sni=taga5.api3-max.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
