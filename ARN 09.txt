@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=770238103018; download=770238103018; total=0; expire=1788436800
+#subscription-userinfo: upload=772956338345; download=772956338345; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@wx-deu-022.cdnphotos.org:443?type=xhttp&security=tls&sni=wx-deu-022.cdnphotos.org&path=%2Fapi%2Fv1%2F&mode=auto&packetEncoding=none&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@172.64.80.1:8443?encryption=none&fp=chrome&host=ad-018.cloud25075.info&path=%2F&security=tls&sni=ad-018.cloud25075.info&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-007.cloud25075.info&sni=ad-007.cloud25075.info&encryption=none&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://f78dac42-c4e5-47e6-b3ce-50c4997661d3@167.82.76.69:80?mode=auto&path=%2F&security=&encryption=none&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://f78dac42-c4e5-47e6-b3ce-50c4997661d3@64.227.32.76:61446?mode=auto&path=/&security=reality&alpn=h3,h2,http/1.1&encryption=none&pbk=cj-2GvWY9TLI8oG31OlcLuskqSM5SGMjoBgEbV-iWG8&host=www.yahoo.com&fp=chrome&type=xhttp&sni=de.kino.yahoo.com&sid=5b70a8b642e23441#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-020.pixel9xdmq.info&sni=ad-020.pixel9xdmq.info&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://f78dac42-c4e5-47e6-b3ce-50c4997661d3@64.227.32.76:61446?encryption=none&type=xhttp&mode=auto&host=www.yahoo.com&path=%2F&security=reality&fp=chrome&pbk=cj-2GvWY9TLI8oG31OlcLuskqSM5SGMjoBgEbV-iWG8&sni=de.kino.yahoo.com&sid=5b70a8b642e23441#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?security=tls&insecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?sni=taga2.api3-max.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
