@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=874816934805; download=874816934805; total=0; expire=1788436800
+#subscription-userinfo: upload=877312535034; download=877312535034; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&type=tcp&fp=chrome#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&type=tcp&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-us-07.gocmydns.com:443/?type=grpc&serviceName=mm_grpc&security=tls&sni=www.zueuqnpjvcllc.co&alpn=h2#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-us-11.gocmydns.com:443/?type=grpc&serviceName=mm_grpc&security=tls&sni=www.zueuqnpjvcllc.co&alpn=h2#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&headerType=none&type=tcp#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-us-16.gocmydns.com:443/?type=grpc&serviceName=mm_grpc&security=tls&sni=www.zueuqnpjvcllc.co&alpn=h2#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-us-21.gocmydns.com:443/?type=grpc&serviceName=mm_grpc&security=tls&sni=www.zueuqnpjvcllc.co&alpn=h2#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://MiTiVPN@151.101.74.172:80?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=none&host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://MiTiVPN@146.75.0.242:80?type=ws&security=none&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FHK---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
