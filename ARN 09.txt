@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=1542406671514; download=1542406671514; total=0; expire=1788436800
+#subscription-userinfo: upload=1543539173272; download=1543539173272; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-hysteria2://137f3b50-a6ba-40e7-b537-e37fab064097@latvia.koalaexpress.ru:2443?sni=latvia.koalaexpress.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://896002a8-3afc-49e6-8fac-5129fb717b49@latvia.koalaexpress.ru:2443?sni=latvia.koalaexpress.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://2_hysteria2_fastlane_bv9uqvp20:u9eg0mFPDbwwOFCgr0F96gRwiwT15H0E@138.124.64.30:1935?sni=pl2.h.fastlanehosting.ru&fp=safari#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr140.mechvpn.online:443?alpn=h3&sni=fr140.mechvpn.online#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr140.mechvpn.online:443?sni=fr140.mechvpn.online#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8080?sni=grape-turbo-fr.roxa.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@se2.hambot.ru:443?sni=se2.hambot.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?sni=nl1.noesissite.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@node3.vpnushka.lol:443/?sni=node3.vpnushka.lol#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
