@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=1983372442132; download=1983372442132; total=0; expire=1788436800
+#subscription-userinfo: upload=1987568823462; download=1987568823462; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-vless://c87318cf-a46e-336f-9ee3-0fa0e3d4300d@152.53.37.35:65535?flow=xtls-rprx-vision&fp=edge&headertype=none&host=learn.microsoft.com&path=%2F&pbk=0PnR2q4kH2iTP5SPhoVk0n6UsyRmzdQqzWbYqOHuvzA&security=reality&sid=e450c58141b3508e&sni=learn.microsoft.com&type=tcp#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://c87318cf-a46e-336f-9ee3-0fa0e3d4300d@152.53.37.35:65535?security=reality&flow=xtls-rprx-vision&pbk=0PnR2q4kH2iTP5SPhoVk0n6UsyRmzdQqzWbYqOHuvzA&sid=e450c58141b3508e&sni=learn.microsoft.com&type=tcp&headerType=none&host=learn.microsoft.com&path=%2F&fp=ios#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://c87318cf-a46e-336f-9ee3-0fa0e3d4300d@152.53.37.35:65535?security=reality&type=tcp&sni=learn.microsoft.com&flow=xtls-rprx-vision&sid=e450c58141b3508e&pbk=0PnR2q4kH2iTP5SPhoVk0n6UsyRmzdQqzWbYqOHuvzA&fp=random#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=/vl-ws&sni=web-production-7a7ff.up.railway.app&fp=chrome&alpn=http/1.1#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.86:443?encryption=none&flow=xtls-rprx-vision&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&security=reality&sid=17d334ad29b2ff40&sni=cdnjs.com&type=tcp&fp=firefox#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=safari#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq1.wwwinternetvideo.click:443?sni=cabinet.wwwinternetvideo.click&alpn=h3#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443/?sni=kaz0001hy01.packet-drop-society.net#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
