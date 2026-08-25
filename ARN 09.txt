@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=2113022872422; download=2113022872422; total=0; expire=1788436800
+#subscription-userinfo: upload=2114217288580; download=2114217288580; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-hysteria2://026ee970-e645-4062-899a-383d75767b48@hy2.ghostyconnect.org:443/?sni=hy2.ghostyconnect.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://086422b2-3347-45f8-b527-d9e1be25dc56@185.23.18.208:443?sni=histeriaheixa.mooo.com#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://1c8206c7-231c-41a8-b807-ad23a354cc69@edge.nordcache.ru:9443?sni=edge.nordcache.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://5b9aba98-df99-4699-8fd8-15aabe7de47f@edge.nordcache.ru:9443?sni=edge.nordcache.ru#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia1.unlimited-access.ru:443?sni=hy2-latvia1.unlimited-access.ru&fp=chrome&alpn=h3#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://203c2146-6620-4a5e-836c-7af5c75c9325@185.246.191.135:2053?type=grpc&security=reality&fp=firefox&pbk=7zv-3bWzr0wwe4vy1Z_35V-cLXjH07cSRuOw8tcX4wk&sid=9c&sni=www.intel.com&serviceName=grpc#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://203c2146-6620-4a5e-836c-7af5c75c9325@node16.fastdatastream.com:2053?type=grpc&security=reality&fp=chrome&pbk=7zv-3bWzr0wwe4vy1Z_35V-cLXjH07cSRuOw8tcX4wk&sid=9c&sni=www.intel.com&serviceName=grpc&spx=/#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@13.143.176.128:443?type=grpc&security=tls&fp=firefox&sni=eeb.mythos-wargame.fun&serviceName=edge.sync.v1#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@eeb.mythos-wargame.fun:443?type=grpc&security=tls&fp=chrome&serviceName=edge.sync.v1#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@2.27.244.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
