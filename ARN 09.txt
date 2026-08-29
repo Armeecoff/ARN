@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=2391131525837; download=2391131525837; total=0; expire=1788436800
+#subscription-userinfo: upload=2393887679093; download=2393887679093; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@217.60.183.220:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=v.expres.fr-1.keshe-voz.pw&type=tcp&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@v.expres.fr-1.keshe-voz.pw:443?type=tcp&security=reality&sni=v.expres.fr-1.keshe-voz.pw&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&encryption=none&flow=xtls-rprx-vision&fp=chrome#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@v.expres.fr-1.keshe-voz.pw:443?type=tcp&security=reality&sni=v.expres.fr-1.keshe-voz.pw&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&encryption=none&flow=xtls-rprx-vision&fp=firefox#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@v.expres.fr-1.keshe-voz.pw:443?type=tcp&security=reality&sni=v.expres.fr-1.keshe-voz.pw&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&encryption=none&flow=xtls-rprx-vision&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@kz3.freeinternat.com:443?type=tcp&security=reality&sni=kz3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3ce8ee8.hb.gladns.com:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG+%40WangCai2%29c47ab06%3A133288#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIEt1bm1pbmcgfCBbQkxdIiwiYWRkIjoiMTUwLjI0Mi4yNDQuMTE2IiwicG9ydCI6IjI2NDgiLCJpZCI6IjVkNzQ2ZjFlLTcwMjgtNDU1Zi1iYjAwLTE4MDYyNDlhNTk0MSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwic25pIjoiIiwiZnAiOiIiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vmess://eyJ2IjoiMiIsImFkZCI6InUyZnJ4ajBnMTN2ZGkwd28udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJVMkZSeGowRzEzdkRJMFdvLnYuM2Rucy52aXAiLCJhbHBuIjoiIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsImZwIjoiIiwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcsIEhvbmcgS29uZyB8IFtCTF0iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwiaG9zdCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibTAxYzdiMnoyNmR0cWdlZS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiTTAxYzdCMnoyNkR0UUdFZS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6Ik0wMWM3QjJ6MjZEdFFHRWUudi4zZG5zLnZpcCIsImFscG4iOiIiLCJmcCI6IiJ9#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
