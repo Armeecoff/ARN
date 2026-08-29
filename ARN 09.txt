@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=2381298607087; download=2381298607087; total=0; expire=1788436800
+#subscription-userinfo: upload=2383085092326; download=2383085092326; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-vless://58f133a9-0b8c-4237-ba40-c69d32a35e27@th.loadpng.com:8443?security=reality&type=tcp&sni=th.loadpng.com&flow=xtls-rprx-vision&sid=5afead0ded6704&pbk=qx0kATC_JzNqH-ZXOFEXWy3jknYjli5BWb8rtH8pdWQ&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://58f133a9-0b8c-4237-ba40-c69d32a35e27@th.loadpng.com:8443?security=reality&type=tcp&sni=th.loadpng.com&flow=xtls-rprx-vision&sid=5afead0ded6704&pbk=qx0kATC_JzNqH-ZXOFEXWy3jknYjli5BWb8rtH8pdWQ&fp=safari#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de48.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru&fp=chrome#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de48.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru&fp=firefox#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://be3c103d-2c93-4f8e-adb9-2631537f80eb@de48.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru&fp=ios#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@217.60.183.220:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=v.expres.fr-1.keshe-voz.pw&type=tcp&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@v.expres.fr-1.keshe-voz.pw:443?type=tcp&security=reality&sni=v.expres.fr-1.keshe-voz.pw&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&encryption=none&flow=xtls-rprx-vision&fp=chrome#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@v.expres.fr-1.keshe-voz.pw:443?type=tcp&security=reality&sni=v.expres.fr-1.keshe-voz.pw&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&encryption=none&flow=xtls-rprx-vision&fp=firefox#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@v.expres.fr-1.keshe-voz.pw:443?type=tcp&security=reality&sni=v.expres.fr-1.keshe-voz.pw&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&encryption=none&flow=xtls-rprx-vision&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@kz3.freeinternat.com:443?type=tcp&security=reality&sni=kz3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
