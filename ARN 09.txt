@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=2443026373961; download=2443026373961; total=0; expire=1788436800
+#subscription-userinfo: upload=2445761991955; download=2445761991955; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-se-4.dost-self.co.uk:2443?sni=exit-se-4.dost-self.co.uk#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-se-5.dost-self.co.uk:2443?sni=exit-se-5.dost-self.co.uk#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@ficdn1.aiai-rkp.net:443?sni=ficdn1.aiai-rkp.net#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.152:8443?sni=grape-turbo-fr.roxa.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-nl-1.dost-self.co.uk:2443?sni=exit-nl-1.dost-self.co.uk#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://84491c04-b011-4fdc-b97d-770975586f3a@germ1th.jarvesitw.ru:443?flow=xtls-rprx-vision&security=reality&type=tcp&sni=ads.x5.ru&pbk=cszyeuoXE1nOdNWsVoh5ECs3yaZdMx_GHuPl7PaKwxc&sid=1004ce38&fp=qq#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.118:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28Telegram%F0%9F%87%A8%F0%9F%87%B3+%40VPNine1%299f6b1e7%3A141612#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3ce8ee8.hb.gladns.com:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG+%40WangCai2%29c47ab06%3A133288#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.183:8443?sni=hopp-romania-new.roxa.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://d19b459e-fcc3-4f2a-8f2e-77e8701cd1d8@hh.funvideorus.net:443?sni=hh.funvideorus.net#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
