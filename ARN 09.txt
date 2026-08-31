@@ -1,7 +1,7 @@
 # profile-title: ARN Basic
 # profile-update-interval: 1
 #providerid: AhzdEXVE
-#subscription-userinfo: upload=2505026384924; download=2505026384924; total=0; expire=1788436800
+#subscription-userinfo: upload=2509225447264; download=2509225447264; total=0; expire=1788436800
 #announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
 #support-url: https://t.me/kirieshkatops
 #notification-subs-expire: 1
@@ -10,8 +10,8 @@
 #sub-info-button-text: Бот
 #sub-info-button-link: https://t.me/test_rub_bot?startapp
 #hide-settings: 1
-vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&host=worker3.dawejoy4544.workers.dev#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://424fa201-3f94-479e-b533-d5257cf9a207@45.131.208.4:80?security=false&packet-encoding=xudp&type=ws&headerType=none&host=floral-thunder-10d3.82-67d.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&fp=chrome#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://6d613d5f-1d65-48ca-b2e8-d83a2c3a17d9@172.64.80.1:8880?encryption=none&host=tight-star-08eb.331-729.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn12.somethingstranges.com:8406?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D37949-LD4JNZAf.download.microsoft.com#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn08.somethingstranges.com:8211?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D37949-LD4JNZAf.download.microsoft.com#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn07.somethingstranges.com:8206?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D37949-LD4JNZAf.download.microsoft.com#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3ce8ee8.hb.gladns.com:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG+%40WangCai2%29c47ab06%3A133288#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://036c648f927d4d86a82dcf629db8cbe1@jackvpn22.mooo.com:2110?alpn=h3&ech=AGX+DQBhAAAgACAsjHbrwb7mKITz+Gp%2FjD7EX+I30%2FWT7fNAa6xd34kRbwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABJqYWNrdnBuMjIubW9vby5jb20AAA%3D%3D&fp=chrome&security=tls&sni=jackvpn22.mooo.com#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?sni=hopp-romania-new.roxa.org#YT%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
