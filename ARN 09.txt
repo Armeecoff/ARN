@@ -1,12 +1,12 @@
-# profile-title: ARN Basic
+# profile-title: ARN (EXPIRED)
 # profile-update-interval: 1
-#providerid: AhzdEXVE
-#subscription-userinfo: upload=2711848597885; download=2711848597885; total=0; expire=1788436800
-#announce: base64:0KDQtdC60L7QvNC10L3QtNGD0LXQvCDQutGD0L/QuNGC0Ywg0L/QvtC00L/QuNGB0LrQuCDQsdC+0LvQtdC1INCy0YvRgdC+0LrQvtCz0L4g0YPRgNC+0LLQvdGPINC00LvRjyDQutC+0LzRhNC+0YDRgtC90L7Qs9C+INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNGP
-#support-url: https://t.me/kirieshkatops
-#notification-subs-expire: 1
-#sub-info-text: Спасибо за выбор ARN Basic
-#sub-info-color: green
-#sub-info-button-text: Бот
-#sub-info-button-link: https://t.me/test_rub_bot?startapp
-#hide-settings: 1
+# subscription-userinfo: upload=0; download=0; total=0; expire=0
+# announce: base64:0J/QvtC00L/QuNGB0LrQsCDQv9GA0L7QtNC70LXQvdCwLCDQt9Cw0LrQsNC20LjRgtC1INC/0L7Qv9C+0LvQvdGP0L3QuNGPINGB0LLRj9C30Lgg0YEg0LDQtNC80LjQvdC40YHRgtGA0LDRgtC+0YDQvtC8
+# support-url: https://t.me/kirieshkatops
+# sub-info-text: Продлите подписку, чтобы дальше пользоваться ВПН
+# sub-info-color: red
+
+vless://00000000-0000-0000-0000-000000000000@expired.com:0?security=none&type=none#EXPIRED
+trojan://00000000-0000-0000-0000-000000000000@expired.com:0?security=none#EXPIRED
+hysteria2://00000000-0000-0000-0000-000000000000@expired.com:0?insecure=1#EXPIRED
+ss://00000000-0000-0000-0000-000000000000@expired.com:0#EXPIRED
