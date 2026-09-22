@@ -1,0 +1,47 @@
+# profile-title: ARN Multi
+# profile-update-interval: 1 
+#providerid: AhzdEXVE
+#subscription-userinfo: upload=0; download=0; total=0; expire=1792152000 
+#announce: base64:0KHQvtCy0LXRgtGD0LXQvCDQvdC1INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBMVEUg0YHQtdGA0LLQtdGA0LAg0L3QsCBXaWZpCtCh0LXRgNCy0LXRgNCwINC90LUg0LjQtNGD0YIg0LIg0LvQuNC80LjRgiDRgtGA0LDRhNC40LrQsA==
+#notification-subs-expire: 1
+#sub-info-text: Спасибо за выбор ARN Multi
+#sub-info-color: green
+#sub-info-button-text: Продлить
+#sub-info-button-link: https://t.me/armeecoff
+#hide-settings: 1
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=mak.topupaxme.icu&fp=firefox&alpn=h2%2Chttp%2F1.1#🇫🇷 Франция
+hysteria2://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.73.87:443/?obfs=salamander&obfs-password=Kp9mX2vL7nQwR4sT8yU3zA6bC1dF5hJ0&sni=hy-9.cloudgamings.org&fm=%7B%22udp%22%3A%5B%7B%22type%22%3A%22salamander%22%2C%22settings%22%3A%7B%22password%22%3A%22Kp9mX2vL7nQwR4sT8yU3zA6bC1dF5hJ0%22%7D%7D%5D%7D#🇳🇱 Нидерланды
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.153:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=for.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇳🇱 Нидерланды
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.153:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=for.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇳🇱 Нидерланды
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=cdn-network.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇬🇧 Великобритания
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.73.226:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-germany-1.locallynet.org&fp=qq&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.73.226:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-germany-2.locallynet.org&fp=qq&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.78.200:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=bermux.locallynet.org&fp=firefox#🇩🇪 Германия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.31.130:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz-api.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇰🇿 Казахстан
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@turkey-api.locallynet.org:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=turkey-api.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇹🇷 Турция
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@gdg.herumhas.shop:5443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#🇷🇺 Россия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.36.219:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=ru-api-1.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.36.219:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=ru-api-1.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.242.94.69:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=cdn-glavslush.herumhas.shop&fp=qq&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.242.94.69:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=cdn-glavslush.herumhas.shop&fp=qq&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@mx.bexumconnect.ltd:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=mx.bexumconnect.ltd&fp=qq#🇪🇺 Европа
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@zug-net.locallynet.org:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=zug-net.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇨🇭 Швейцария
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@sw-game-1.cloudgamings.org:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=sw-game-1.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇨🇭 Швейцария
+trojan://1K-ATDCHH102mucC372TTJ3da0GxJDdg@ws-test-1.hysteria.ltd:9443?type=ws&path=%2Fws&security=tls&sni=ws-test-1.hysteria.ltd&fp=chrome#🇺🇸 США
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@api-1.hysteria.ltd:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-1.hysteria.ltd&fp=firefox&alpn=h2%2Chttp%2F1.1#🇫🇮 Финляндия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@api-1.hysteria.ltd:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-1.hysteria.ltd&fp=firefox&alpn=h2%2Chttp%2F1.1#🇫🇮 Финляндия
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@beast-2.locallynet.org:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=beast-2.locallynet.org&fp=qq#🇩🇪 Германия
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@ytnoads.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=qq&alpn=http%2F1.1#🇷🇺 Россия
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@nl.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇳🇱 Нидерланды
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@pl.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox#🇵🇱 Польша
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@de.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇩🇪 Германия
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@fr.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox#🇫🇷 Франция
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@fin.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇫🇮 Финляндия
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@it.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇮🇹 Италия
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@swe.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇸🇪 Швеция
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@us.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇺🇸 США
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@ch.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇨🇭 Швейцария
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@sg.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=sg.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇸🇬 Сингапур
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@kz.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇰🇿 Казахстан
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@tk.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇹🇷 Турция
+vless://1004e87f-a8d0-4df0-b50b-224fe691a073@uae.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=uae.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇦🇪 ОАЭ
