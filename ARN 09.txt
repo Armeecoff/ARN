@@ -1,12 +1,10 @@
 # profile-title: ARN (EXPIRED)
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=0; expire=0
-# announce: base64:0J/QvtC00L/QuNGB0LrQsCDQv9GA0L7QtNC70LXQvdCwLCDQt9Cw0LrQsNC20LjRgtC1INC/0L7Qv9C+0LvQvdGP0L3QuNGPINGB0LLRj9C30Lgg0YEg0LDQtNC80LjQvdC40YHRgtGA0LDRgtC+0YDQvtC8
-# support-url: https://t.me/kirieshkatops
+# announce: base64:0J/QvtC00L/QuNGB0LrQsCDQt9Cw0LrQvtC90YfQuNC70LDRgdGMLCDQttC00ZHQvCDRgdC90L7QstCw
 # sub-info-text: Продлите подписку, чтобы дальше пользоваться ВПН
 # sub-info-color: red
+# support-url: https://t.me/kirieshkatops
 
-vless://00000000-0000-0000-0000-000000000000@expired.com:0?security=none&type=none#EXPIRED
-trojan://00000000-0000-0000-0000-000000000000@expired.com:0?security=none#EXPIRED
-hysteria2://00000000-0000-0000-0000-000000000000@expired.com:0?insecure=1#EXPIRED
-ss://00000000-0000-0000-0000-000000000000@expired.com:0#EXPIRED
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:0?security=none&type=none#Ваша подписка истекла
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:0?security=none&type=none#Продлите её
