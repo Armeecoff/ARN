@@ -1,14 +1,15 @@
 # profile-title: ARN Multi
-# profile-update-interval: 1 
-#providerid: AhzdEXVE
-#subscription-userinfo: upload=0; download=0; total=0; expire=1790856000 
-#announce: base64:0KHQvtCy0LXRgtGD0LXQvCDQvdC1INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBMVEUg0YHQtdGA0LLQtdGA0LAg0L3QsCBXaWZpCtCh0LXRgNCy0LXRgNCwINC90LUg0LjQtNGD0YIg0LIg0LvQuNC80LjRgiDRgtGA0LDRhNC40LrQsA==
-#notification-subs-expire: 1
-#sub-info-text: Спасибо за выбор ARN Multi
-#sub-info-color: green
-#sub-info-button-text: Продлить
-#sub-info-button-link: https://t.me/armeecoff
-#hide-settings: 1
+# profile-update-interval: 1
+# providerid: AhzdEXVE
+# subscription-userinfo: upload=0; download=0; total=0; expire=1793534400
+# announce: base64:0KHQvtCy0LXRgtGD0LXQvCDQvdC1INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBMVEUg0YHQtdGA0LLQtdGA0LAg0L3QsCBXaWZpCtCh0LXRgNCy0LXRgNCwINC90LUg0LjQtNGD0YIg0LIg0LvQuNC80LjRgiDRgtGA0LDRhNC40LrQsA==
+# notification-subs-expire: 1
+# sub-info-text: Спасибо за выбор ARN Multi
+# sub-info-color: green
+# sub-info-button-text: Продлить
+# sub-info-button-link: https://t.me/armeecoff
+# hide-settings: 1
+
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?encryption=none&type=tcp&security=none#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1
 vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=mak.topupaxme.icu&fp=firefox&alpn=h2%2Chttp%2F1.1#🇫🇷 Франция
 vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.153:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=for.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇳🇱 Нидерланды
