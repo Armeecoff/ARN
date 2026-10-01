@@ -1,80 +1,14 @@
-# profile-title: ARN Multi
-# profile-update-interval: 1 
-#providerid: AhzdEXVE
-#subscription-userinfo: upload=0; download=0; total=0; expire=1790856000 
-#announce: base64:0KHQvtCy0LXRgtGD0LXQvCDQvdC1INC40YHQv9C+0LvRjNC30L7QstCw0YLRjCBMVEUg0YHQtdGA0LLQtdGA0LAg0L3QsCBXaWZpCtCh0LXRgNCy0LXRgNCwINC90LUg0LjQtNGD0YIg0LIg0LvQuNC80LjRgiDRgtGA0LDRhNC40LrQsA==
-#notification-subs-expire: 1
-#sub-info-text: Спасибо за выбор ARN Multi
-#sub-info-color: green
-#sub-info-button-text: Продлить
-#sub-info-button-link: https://t.me/armeecoff
-#hide-settings: 1
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?encryption=none&type=tcp&security=none#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=mak.topupaxme.icu&fp=firefox&alpn=h2%2Chttp%2F1.1#🇫🇷 Франция
-hysteria2://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.73.87:443/?obfs=salamander&obfs-password=Kp9mX2vL7nQwR4sT8yU3zA6bC1dF5hJ0&sni=hy-9.cloudgamings.org&fm=%7B%22udp%22%3A%5B%7B%22type%22%3A%22salamander%22%2C%22settings%22%3A%7B%22password%22%3A%22Kp9mX2vL7nQwR4sT8yU3zA6bC1dF5hJ0%22%7D%7D%5D%7D#🇳🇱 Нидерланды
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.153:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=for.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇳🇱 Нидерланды
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.153:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=for.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇳🇱 Нидерланды
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=cdn-network.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇬🇧 Великобритания
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.73.226:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-germany-1.locallynet.org&fp=qq&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.73.226:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-germany-2.locallynet.org&fp=qq&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.78.200:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=bermux.locallynet.org&fp=firefox#🇩🇪 Германия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.31.130:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz-api.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇰🇿 Казахстан
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@turkey-api.locallynet.org:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=turkey-api.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇹🇷 Турция
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@gdg.herumhas.shop:5443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#🇷🇺 Россия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.36.219:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=ru-api-1.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.36.219:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=ru-api-1.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.242.94.69:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=cdn-glavslush.herumhas.shop&fp=qq&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.242.94.69:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=cdn-glavslush.herumhas.shop&fp=qq&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@ventusion.didaria-keybert.site:443?encryption=none&type=xhttp&path=%2Fcontent%2Fsec.mp4%2F&host=ventusion.didaria-keybert.site&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22maxConnections%22%3A%222%22%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxRequestTimes%22%3A%22100-200%22%2C%22hMaxReusableSecs%22%3A%22900-1800%22%7D%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingKey%22%3A%22_token%22%2C%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingHeader%22%3A%22X-Signature%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22query%22%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22scMinPostsIntervalMs%22%3A%2250-150%22%2C%22scStreamUpServerSecs%22%3A%2260-180%22%7D&security=tls&sni=ventusion.didaria-keybert.site&fp=firefox&alpn=h2#%F0%9F%87%AA%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1%28%D0%BB%D0%B8%D0%BC%D0%B8%D1%82%D0%BD%D1%8B%D0%B9%29
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?encryption=none&type=tcp&security=none#%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@playza-app.com:443?encryption=none&type=tcp&security=reality&sni=playza-app.com&fp=firefox&pbk=K41mxSIT1WcM8QEiZQxs7n_qOroaPucFMHamzWICKVQ#🇩🇪 Германия
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@ru-manager.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru-manager.nodexphere.net&fp=chrome&pbk=lDbTuU4-pEAkxizbdrurcjz3eXq0AgECd0hEh0sL0zM#🇸🇴 Авто выбор
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@de-modx.nodexphere.net:443?encryption=none&type=tcp&security=reality&sni=de-modx.nodexphere.net&fp=firefox&pbk=mvftK1HPHzpwowTw8ElAwf-GEECYx38GCTq4ihhEmAY#🇩🇪 Германия
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@pl-modx.nodexphere.net:443?encryption=none&type=tcp&security=reality&sni=pl-modx.nodexphere.net&fp=firefox&pbk=_S6MJ2-dROx_X7rUM_Gnh01MPAVVgnB0_x0t4_2XuVc#🇵🇱 Польша
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@api-mod.storagedirectguide.com:443?encryption=none&type=grpc&serviceName=api-mod&mode=gun&security=reality&sni=api-mod.storagedirectguide.com&fp=firefox&pbk=eyEGQfdxyhZG0bCKlwp8hSihdc5WHTGmw4umrW4_bxY#🇯🇵 Япония
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@nl-modx-roy.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl-modx-roy.nodexphere.net&fp=firefox&pbk=mvftK1HPHzpwowTw8ElAwf-GEECYx38GCTq4ihhEmAY#🇳🇱 Нидерланды
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@nl-modx-prime.storagedirectguide.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl-modx-prime.storagedirectguide.com&fp=firefox&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ#🇳🇱 Нидерланды
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@fl-modx.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fl-modx.nodexphere.net&fp=firefox&pbk=wpKYWqa_j7WXClXDdSL-llXhjH918G_U7jfpHAMSGWk#🇫🇮 Финляндия
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@se-modx.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=se-modx.nodexphere.net&fp=firefox&pbk=zBMeyXgwFrSUKT60bU85vFEKWzcsprb7NtILQAezrgI#🇸🇪 Швеция
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@auto-2.storagedirectguide.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=auto-2.storagedirectguide.com&fp=firefox&pbk=AiLOqdc8MtLlRdtyjM9wNd1CIStXleOlP6-NCOSKlTg#🇸🇴 Авто выбор
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@graff.cosmograff.com:443?encryption=none&type=tcp&security=reality&sni=graff.cosmograff.com&fp=firefox&pbk=K41mxSIT1WcM8QEiZQxs7n_qOroaPucFMHamzWICKVQ#🇵🇱 Польша
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@auto-modx.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=auto-modx.nodexphere.net&fp=firefox&pbk=6bcnE-5ElCRtbB3kR5W0zDLkzj2cPEsD6R_r8M1fmHo#🇭🇰 Гонконг
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@auto-modx.storagedirectguide.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=auto-modx.storagedirectguide.com&fp=firefox&pbk=6bcnE-5ElCRtbB3kR5W0zDLkzj2cPEsD6R_r8M1fmHo#🇭🇰 Гонконг
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@service-nl.storagedirectguide.com:443?encryption=none&type=grpc&serviceName=api-service&mode=gun&security=reality&sni=service-nl.storagedirectguide.com&fp=firefox&pbk=pe3aJqDQUOtFNeJiOj3xVJg_-27iYoePS_jO8qnVKS8#🇳🇱 Нидерланды
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@peper.cosmograff.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=netherlandsworldwide.nl&fp=firefox&pbk=cdbTJJH9RCqCxPNPW8H2dyxPUlDAmEF9DwTEhG8_8E0#🇫🇮 Финляндия
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@nl-modx.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl-modx.nodexphere.net&fp=firefox&pbk=mvftK1HPHzpwowTw8ElAwf-GEECYx38GCTq4ihhEmAY#🇫🇮 Финляндия
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@h2-service.storagedirectguide.com:443?encryption=none&type=xhttp&path=%2Fapi%2Fcontent%2Fv1%2Fsync%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%222-4%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&sni=vprok.ru&fp=firefox&pbk=fUIeQTjIMTYALo0YmMg1VZTdXr_QhbRokT69jqjI6n8#🇪🇺 Европа
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@lt-modx.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lt-modx.nodexphere.net&fp=firefox&pbk=cc2mDH9C31IlAwrn1eEhbuzZ3l4Ijw3mKl7rF75GUDo#🇱🇹 Литва
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@use-modx.storagedirectguide.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=use-modx.storagedirectguide.com&fp=firefox&pbk=muJ79JfAzPaToWetU-3hi5KPrXLCeo6j1Ou-pvZyzxM#🇺🇸 США
-vless://6788fd62-993f-4632-95df-7f9ebf6b3db4@ru-manager.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru-manager.nodexphere.net&fp=firefox&pbk=lDbTuU4-pEAkxizbdrurcjz3eXq0AgECd0hEh0sL0zM#🇷🇺 Россия — YouTube без рекламы
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@ytnoads.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=qq&alpn=http%2F1.1#🇷🇺 Россия
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@nl.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇳🇱 Нидерланды
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@pl.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox#🇵🇱 Польша
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@de.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇩🇪 Германия
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@fr.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox#🇫🇷 Франция
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@est-def.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=safari&alpn=http%2F1.1#🇪🇪 Эстония
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@fin.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇫🇮 Финляндия
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@sp.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=sp.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇪🇸 Испания
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@it.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇮🇹 Италия
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@swe.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇸🇪 Швеция
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@us.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇺🇸 США
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@ch.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇨🇭 Швейцария
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@sg.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=sg.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇸🇬 Сингапур
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@kz.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇰🇿 Казахстан
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@tk.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇹🇷 Турция
-vless://4b6cb724-6f88-437c-b35f-acae9febdd18@uae.applepie-recipe.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=uae.applepie-recipe.ru&fp=firefox&alpn=http%2F1.1#🇦🇪 ОАЭ
-vless://3b0f82aa-4a5a-4869-8024-acac426ee260@pl.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.viralforge.ru&fp=qq&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#🇵🇱 Польша
-vless://3b0f82aa-4a5a-4869-8024-acac426ee260@fi.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fi.viralforge.ru&fp=qq&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#🇫🇮 Финляндия
-vless://3b0f82aa-4a5a-4869-8024-acac426ee260@usa.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=usa.viralforge.ru&fp=qq&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#🇺🇸 США Gemini
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@de-apix.locallynet.org:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-apix.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@de-apix.locallynet.org:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-apix.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@api-1.hysteria.ltd:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-1.hysteria.ltd&fp=firefox&alpn=h2%2Chttp%2F1.1#🇫🇮 Финляндия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@api-1.hysteria.ltd:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-1.hysteria.ltd&fp=firefox&alpn=h2%2Chttp%2F1.1#🇫🇮 Финляндия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@beast-2.locallynet.org:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=beast-2.locallynet.org&fp=qq#🇩🇪 Германия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@kam332.topupaxme.icu:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kam332.topupaxme.icu&fp=firefox&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@kam332.topupaxme.icu:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kam332.topupaxme.icu&fp=firefox&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@merch.locallynet.org:7443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=merch.locallynet.org&fp=qq#🇪🇪 Эстония
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@api.locallynet.org:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇬🇧 Великобритания
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@api-austria.locallynet.org:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-austria.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇦🇹 Австрия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@api-italy.locallynet.org:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-italy.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1#🇮🇹 Италия
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@bg-1.bexumconnect.ltd:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=bg-1.bexumconnect.ltd&fp=qq&alpn=http%2F1.1%2Ch2#🇧🇬 Болгария
+# profile-title: ARN Multi (EXPIRED)
+# profile-update-interval: 1
+# providerid: AhzdEXVE
+# subscription-userinfo: upload=0; download=0; total=0; expire=0
+# announce: base64:0J/QvtC00L/QuNGB0LrQsCDQt9Cw0LrQvtC90YfQuNC70LDRgdGMLCDQttC00ZHQvCDRgdC90L7QstCw
+# notification-subs-expire: 1
+# sub-info-text: Спасибо за выбор ARN Multi
+# sub-info-color: green
+# sub-info-button-text: Продлить
+# sub-info-button-link: https://t.me/armeecoff
+# hide-settings: 1
+
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:0?security=none&type=none#Ваша подписка истекла
+vless://00000000-0000-0000-0000-000000000000@expired.invalid:0?security=none&type=none#Продлите её
