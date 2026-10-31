@@ -10,24 +10,7 @@
 #sub-info-button-link: https://t.me/armeecoff
 #hide-settings: 1
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?encryption=none&type=tcp&security=none#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@46.8.210.178:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=mVrmxvoqNcQMoWQ0EdNZ91uH4B2LqVfxUkITUXnRuSY&sid=cbb921958eeb9a40&type=tcp#1-46.8.210.178
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@188.225.33.214:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=xEprpxcbj30lJZMfNWftPtiAmgrXTzRnnN3HFRtFfB4&sid=f3c0f343a191&type=tcp#2-188.225.33.214
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bench-two.hysteria.ltd&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp#3-194.55.239.183
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@95.163.232.109:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=XlPZy538jkCt-VNtnLXcwjtrTSaVrM2AzIWq_rh7pRU&sid=51d04ca6fb10&type=tcp#4-95.163.232.109
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@46.8.208.17:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=xEprpxcbj30lJZMfNWftPtiAmgrXTzRnnN3HFRtFfB4&sid=f3c0f343a191&type=tcp#5-46.8.208.17
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.239:6443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=for.cloudgamings.org&fp=firefox&type=tcp#6-194.55.239.239
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@mapzapravki.space:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lada.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp#7-mapzapravki
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.153:6443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=for.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp#8-87.228.33.153
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.110:5443?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=E_j9qer8VG87fYf6T-mySq01RcBdmhtMI_2h0powPnM&sid=2a2935ca1daefcde&type=grpc&serviceName=grpc&mode=gun#10-87.228.33.110-grpc
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.110:666?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=E_j9qer8VG87fYf6T-mySq01RcBdmhtMI_2h0powPnM&sid=2a2935ca1daefcde&type=grpc&serviceName=grpc&mode=gun#11-87.228.33.110-grpc
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn-network.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp#12-194.55.239.183-443
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@de-apix.locallynet.org:4443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de-apix.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp#13-de-apix
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@beast-2.locallynet.org:4443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast-2.locallynet.org&fp=qq&type=tcp#14-beast-2
-hysteria2://f65605ca-b276-4ea5-8633-cdc363a37123@hsale.locallynet.org:5443?sni=hsale.locallynet.org&alpn=h3&fp=qq#15-hsale
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@kam332.topupaxme.icu:4443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kam332.topupaxme.icu&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp#16-kam332
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@merch.locallynet.org:7443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=merch.locallynet.org&fp=qq&type=tcp#17-merch
-vless://f65605ca-b276-4ea5-8633-cdc363a37123@bratok.hysteria.ltd:6443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bratok.hysteria.ltd&fp=qq&alpn=h2%2Chttp%2F1.1&type=tcp#18-bratok
-hysteria2://f65605ca-b276-4ea5-8633-cdc363a37123@wiki.locallynet.org:8443?sni=wiki.locallynet.org&alpn=h3&fp=firefox#19-wikivless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&alpn=h2%2Chttp%2F1.1&sni=bench-two.hysteria.ltd&type=tcp#🇫🇷%20Франция
+vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&alpn=h2%2Chttp%2F1.1&sni=bench-two.hysteria.ltd&type=tcp#🇫🇷%20Франция
 vless://f65605ca-b276-4ea5-8633-cdc363a37123@194.55.239.239:6443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=for.cloudgamings.org&type=tcp#🇫🇷%20Франция
 vless://f65605ca-b276-4ea5-8633-cdc363a37123@mapzapravki.space:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&alpn=h2%2Chttp%2F1.1&sni=lada.locallynet.org&type=tcp#🇫🇷%20Франция
 vless://f65605ca-b276-4ea5-8633-cdc363a37123@87.228.33.153:6443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&alpn=h2%2Chttp%2F1.1&sni=for.cloudgamings.org&type=tcp#🇳🇱%20Нидерланды
