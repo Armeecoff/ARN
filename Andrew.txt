@@ -1,7 +1,7 @@
 # profile-title: ARN Multi
 # profile-update-interval: 1
 # providerid: AhzdEXVE
-# subscription-userinfo: upload=0; download=0; total=0; expire=1793793600
+# subscription-userinfo: upload=0; download=0; total=0; expire=1796299200
 # announce: base64:0JTQvtCx0YDQviDQv9C+0LbQsNC70L7QstCw0YLRjCDQsiBBUk4gTXVsdGk=
 # notification-subs-expire: 1
 # sub-info-text: Спасибо за выбор ARN Multi
