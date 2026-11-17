@@ -33,6 +33,7 @@
           "address": "77.88.8.8",
           "domains": [
             "domain:mtalk.google.com",
+            "domain:dnevnik.ru",
             "domain:push.apple.com",
             "domain:api.push.apple.com",
             "domain:push-apple.com.akadns.net",
