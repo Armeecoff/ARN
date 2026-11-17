@@ -1,5 +1,14 @@
 [
   {
+    "remarks": "Обход БС",
+    "outbounds": [
+      {
+        "protocol": "blackhole",
+        "tag": "proxy"
+      }
+    ]
+  },
+  {
     "burstObservatory": {
       "pingConfig": {
         "connectivity": "",
@@ -1972,15 +1981,6 @@
         }
       ]
     }
-  },
-  {
-    "remarks": "Обход БС",
-    "outbounds": [
-      {
-        "protocol": "blackhole",
-        "tag": "proxy"
-      }
-    ]
   },
   {
     "remarks": "🇪🇺Авто | LTE-Обход",
